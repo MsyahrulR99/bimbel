@@ -27,3 +27,23 @@ h1 {
   padding-bottom:5px;
   font:normal 80% Verdana,Trebuchet,Arial,Sans-serif;
   }
+
+
+  .keyboard-box::before {
+    content: 'alahfsnfsnfmsnf';
+    position: absolute;
+    color: aqua;
+    font-size: 5em;
+    font-weight: bold;
+    font-style: italic;
+    top: 30px;
+   
+    opacity: 0;
+    
+  }
+
+  .keyboard-box:hover::before{
+    left: 50%;
+    transform: translate(-50%, 0);
+    opacity: 1;
+  }
