@@ -30,7 +30,7 @@ h1 {
 
 
   .keyboard-box::before {
-    content: 'alahfsnfsnfmsnf';
+    
     position: absolute;
     color: aqua;
     font-size: 5em;
@@ -47,3 +47,5 @@ h1 {
     transform: translate(-50%, 0);
     opacity: 1;
   }
+
+ 
