@@ -1,2 +1,5 @@
-const nama = document.getElementById(.nama);
-alert('aku sayangkamu');
+const nama = document.getElementById("mail");
+nama.innerHTML = "Email:";
+
+const warna = document.getElementById("nama");
+warna.style.color = "#23323";
