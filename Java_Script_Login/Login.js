@@ -1,14 +1,19 @@
 const nama = document.getElementById("mail");
-innerHTML = "Email:";
+nama.innerHTML = "Email:";
+
+const psw = document.getElementById("psw")
+psw.innerHTML = "Password:"
 
 const warna = document.getElementById("nama");
-warna.style.color = "#23323";
+warna.innerHTML = "Welcome Briliant Les Center";
+warna.style.color = "black";
+warna.style.marginTop = "20px";
+warna.style.marginBottom= "40px";
+warna.style.fontStyle = "italic";
 
+const saya = document.getElementById("log");
+saya.innerHTML = "Log In";
 
-const bodi = document.getElementById('bodi');
-bodi.body.style.background = 'url("Image/guru.jpg")';
-bodi.body.style.backgroundSize= '1600px';
+const reg = document.getElementById("reg");
+reg.innerHTML = "Register";
 
-const berwarna = document.getElementById("klik");
-berwarna function(o);{
-berwarna.style.backgroundColor = "red";
