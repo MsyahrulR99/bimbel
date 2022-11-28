@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../bootstrap-5.2.2-dist/bootstrap-5.2.2-dist"
+		},
+		{
+			"path": "../../bootstrap-5.2.2-dist/Css_login"
+		},
+		{
+			"path": "../../bootstrap-5.2.2-dist/Css_Menu"
+		},
+		{
+			"path": "../../bootstrap-5.2.2-dist/Image"
+		},
+		{
+			"path": "../../bootstrap-5.2.2-dist/Java_Script_Login"
+		},
+		{
+			"path": "../../bootstrap-5.2.2-dist/Java_Script_Menu"
+		}
+	]
+}
